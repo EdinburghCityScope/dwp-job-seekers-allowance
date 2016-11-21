@@ -1,0 +1,36 @@
+{
+    "id": "https://github.com/EdinburghCityScope/dwp-job-seekers-allowance",
+    "title": "Job Seeker's Allowance Claimants in Edinburgh",
+    "description": "Number, and percent, of people in Edinburgh claiming Job Seeker's Allowance by gender and age.",
+    "landingPage": "https://github.com/EdinburghCityScope/dwp-job-seekers-allowance",
+    "issued": "2016-10-21",
+    "modified": "2016-11-18",
+    "language": [
+        "en"
+    ],
+    "publisher": {
+        "name": "Scottish Government",
+        "mbox": "statistics.enquiries@gov.scot"
+    },
+    "spatial": "http://www.geonames.org/maps/google_55.95_-3.193.html",
+    "keyword": [
+        "Economic Activity",
+        "Benefits and Tax Credits"
+    ],
+    "distribution": [
+        {
+            "title": "Edinburgh Data Zones 2001",
+            "description": "Data Zones 2001 boundaries in GeoJSON.",
+            "mediaType": "application/vnd.geo+json",
+            "downloadURL": "https://raw.githubusercontent.com/EdinburghCityScope/dwp-job-seekers-allowance/master/data/data-zones-2001.json",
+            "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/"
+        },
+        {
+            "title": "Edinburgh Job Seeker's Allowance Claimants data",
+            "description": "Number, and percent, of people claiming Job Seeker's Allowance by gender and age in Edinburgh Data Zones 2001 as published by the Scottish Government. Data taken from http://statistics.gov.scot/data/job-seekers-allowance",
+            "mediaType": "text/csv",
+            "downloadURL": "https://raw.githubusercontent.com/EdinburghCityScope/dwp-job-seekers-allowance/master/data/job-seekers-allowance.csv",
+            "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/"
+        }
+    ]
+}
